@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+  font-family: 'Lobster', cursive;
+}
+.btn{
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+    width: 1250px;
+    margin-left: 140px;
+}
+button{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 10px 10px;
+    font-size: 20px;
+    height: 30px;
+    margin-top: 20px;
+}
+button:hover{
+    background-color: blue;
+}
+p{
+    font-family: 'Lobster', cursive;
+    font-size: 23px;
+}
+
+
