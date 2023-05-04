@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-order/static/css/main.342c27f1.css",
-    "main.js": "/react-order/static/js/main.1fdd699b.js",
+    "main.js": "/react-order/static/js/main.61603129.js",
     "static/media/adidias_magic.jpeg": "/react-order/static/media/adidias_magic.c5d776229dcd60b7275c.jpeg",
     "static/media/nike_magic.jpeg": "/react-order/static/media/nike_magic.4bf1366e2db8b73554ab.jpeg",
     "static/media/puma_magic.jpeg": "/react-order/static/media/puma_magic.edff8a7bc9e1e1f30bed.jpeg",
     "index.html": "/react-order/index.html",
     "main.342c27f1.css.map": "/react-order/static/css/main.342c27f1.css.map",
-    "main.1fdd699b.js.map": "/react-order/static/js/main.1fdd699b.js.map"
+    "main.61603129.js.map": "/react-order/static/js/main.61603129.js.map"
   },
   "entrypoints": [
     "static/css/main.342c27f1.css",
-    "static/js/main.1fdd699b.js"
+    "static/js/main.61603129.js"
   ]
 }
